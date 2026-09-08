@@ -31,7 +31,7 @@ export function AboutSection() {
               works beyond personal projects.
             </p>
             <p>
-              I&apos;m also exploring AI-assisted development and what I call
+              I&apos;m also exploring AI-assisted development and what people calls
               &quot;vibe coding&quot; — using AI as a development partner to
               experiment, prototype, and solve problems faster while still
               making the technical decisions myself. I&apos;m looking for
