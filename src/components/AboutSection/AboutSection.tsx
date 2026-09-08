@@ -19,24 +19,19 @@ export function AboutSection() {
         <Reveal delay={0.1} className="md:col-span-3">
           <div className="space-y-5 text-fg/90 text-base md:text-lg leading-relaxed">
             <p>
-              I&apos;m a BCA (Hons.) student at Brainware University, focused on
-              frontend development. Most of what I know has come from building
-              things, breaking them, fixing them, and constantly experimenting
-              with new ways to turn ideas into working applications.
+              I&apos;m a BCA (Hons.) student at Brainware University, focused on frontend development. 
+              Most of what I know has come from building things, breaking them, fixing them, and constantly 
+              experimenting with new ways to turn ideas into working applications.
             </p>
             <p>
-              I&apos;m currently working as a Frontend Developer Intern at
-              ApexPlanet, where I&apos;m getting hands-on experience working
-              with a real product codebase and understanding how development
-              works beyond personal projects.
+              I&apos;m currently working as a Frontend Developer Intern at ApexPlanet, where I&apos;m gaining hands-on 
+              experience with a real product codebase and understanding how development works beyond personal projects.
             </p>
             <p>
-              I&apos;m also exploring AI-assisted development and what people calls
-              &quot;vibe coding&quot; — using AI as a development partner to
-              experiment, prototype, and solve problems faster while still
-              making the technical decisions myself. I&apos;m looking for
-              opportunities where I can keep building, learn from experienced
-              developers, and contribute to real products.
+              I&apos;m also exploring AI-assisted development and what people call "vibe coding" — using AI as a 
+              development partner to experiment, prototype, and solve problems faster while 
+              still making the technical decisions myself. I&apos;m looking for opportunities where I can keep building, 
+              learn from experienced developers, and contribute to real products.
             </p>
           </div>
         </Reveal>
