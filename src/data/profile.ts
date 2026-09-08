@@ -34,10 +34,9 @@ export const experience = {
 export const skills = {
   frontend: ["HTML5", "CSS", "JavaScript"],
   programming: ["C", "Python"],
-  database: ["SQL", "MySQL"],
+  database: ["MySQL"],
   focus: [
     "Frontend Development",
-    "UI/UX",
     "Modern Web Development",
     "AI-assisted Development",
     "Vibe Coding",
