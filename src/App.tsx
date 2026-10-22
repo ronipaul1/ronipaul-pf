@@ -1,4 +1,5 @@
 import ReactLenis from "lenis/react";
+import { Analytics } from "@vercel/analytics/react";
 import { ThemeProvider } from "./theme/ThemeProvider";
 import { Header } from "./components/Header/Header";
 import { HeroSection } from "./components/HeroSection/HeroSection";
@@ -27,6 +28,7 @@ function App() {
           </main>
           <Footer />
         </ReactLenis>
+        <Analytics />
       </div>
     </ThemeProvider>
   );
